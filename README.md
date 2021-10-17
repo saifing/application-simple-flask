@@ -37,4 +37,4 @@ Démarrer le serveur Web
 Ouvrez un navigateur et allez à l'URL
 
     http://<IP>:5000                            => Bienvenu
-    http://<IP>:5000/how%20are%20you            => Je vais bien et toi?
+    http://<IP>:5000/comment%20allez%20vous            => Je vais bien et toi?
